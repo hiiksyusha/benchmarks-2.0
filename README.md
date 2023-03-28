@@ -21,5 +21,6 @@ Graduation work
 Полеззные ссылки:
 - [Mongo BD в дествии](https://cafe-aristokrat.nethouse.ru/static/doc/0000/0000/0165/165988.c2f3acpbax.pdf)
 - [Документация MariaDB](https://mariadb.com/kb/en/mariadb/documentation/)
-- [Основы HP Vertica]
+- Основы HP Vertica
 - [Оcновы баз данных](https://mipt.ru/dnbic/content/db.pdf)
+- [На почитать](https://oracle-patches.com/db/mysql/эталонное-тестирование-mysql-бенчмаркинг)
