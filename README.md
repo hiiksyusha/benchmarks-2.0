@@ -24,3 +24,4 @@ Graduation work
 - Основы HP Vertica
 - [Оcновы баз данных](https://mipt.ru/dnbic/content/db.pdf)
 - [На почитать](https://oracle-patches.com/db/mysql/эталонное-тестирование-mysql-бенчмаркинг)
+- [db-benchmark](https://github.com/h2oai/db-benchmark)
